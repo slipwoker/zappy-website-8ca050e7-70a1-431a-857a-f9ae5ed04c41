@@ -1,0 +1,83 @@
+# הנדסאית אדריכלות ומעצבת פנים I ירין מור — Generative Engine Optimization Map
+
+> Yarin Mor is an Israeli Interior Designer and Architectural Engineering Practical Engineer who creates deeply personal, family-centered home experiences. Her brand identity is built around the philosophy that a home should reflect the people living in it — not the other way around. The studio evokes the warmth of an elegant English boutique design house, blending vintage luxury, timeless femininity, and emotional storytelling. Think Soho House meets Ralph Lauren Home in an Israeli family context — refined yet approachable, sophisticated yet deeply human. The website is designed to feel like entering a beautiful home, not a business.
+
+---
+
+## Pages
+
+### בית
+https://i-8ca050e7.zappy5.app
+מעצבת פנים והנדסאית אדריכלות שיוצרת בתים עם נשמה. עיצוב פנים אישי ומשפחתי ברוח אלגנטית-על-זמנית. צרו את חוויית המגורים שחלמתם עליה.
+
+### אודות
+https://i-8ca050e7.zappy5.app/about
+הסיפור של ירין מור – מעצבת שמקשיבה לקירות ולדיירים. גלו איך הפילוסופיה של &#39;בית שמשקף את האנשים&#39; הופכת כל פרויקט לחוויית עיצוב נדירה.
+
+### שירותים
+https://i-8ca050e7.zappy5.app/services
+מתכנון אדריכלי ועד הלבשת הבית – שירותי עיצוב פנים והנדסאות אדריכלות בהתאמה מושלמת לצרכים שלכם. בואו לעצב חלל שמספר את הסיפור המשפחתי.
+
+### תיק עבודות
+https://i-8ca050e7.zappy5.app/portfolio
+תיק עבודות עשיר בפרויקטים של עיצוב פנים והנדסת אדריכלות. היכנסו לראות bathroom makeover before and after, סלונים מפנקים וחדרי ילדים קסומים.
+
+### צור קשר
+https://i-8ca050e7.zappy5.app/contact
+מוכנים להפוך את הבית שלכם למקום הכי אישי בעולם? השאירו פרטים ונצא לדרך עם ליווי צמוד, מקצועי ומלא חמימות. צרו קשר עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://i-8ca050e7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://i-8ca050e7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://i-8ca050e7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://i-8ca050e7.zappy5.app/contact
+- Endpoint: https://i-8ca050e7.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `fullName` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הנדסאית אדריכלות ומעצבת פנים I ירין מור
+Yarin Mor is an Israeli Interior Designer and Architectural Engineering Practical Engineer who creates deeply personal, family-centered home experiences. Her brand identity is built around the philosophy that a home should reflect the people living in it — not the other way around. The studio evokes the warmth of an elegant English boutique design house, blending vintage luxury, timeless femininity, and emotional storytelling. Think Soho House meets Ralph Lauren Home in an Israeli family context — refined yet approachable, sophisticated yet deeply human. The website is designed to feel like entering a beautiful home, not a business.
+
+## Target Audience
+- Families undergoing renovations, contractor apartment buyers, people building new homes who want a personal, guided design experience
+- משפחות בשיפוצים
+- בוני בתים חדשים
+- רוכשי דירות קבלן
+
+## Industry
+Interior Design & Architectural Engineering
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://i-8ca050e7.zappy5.app/sitemap.xml
+- Robots: https://i-8ca050e7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://i-8ca050e7.zappy5.app/llms-full.txt
