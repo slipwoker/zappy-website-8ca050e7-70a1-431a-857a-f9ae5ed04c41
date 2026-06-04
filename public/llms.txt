@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://i-8ca050e7.zappy5.app
+https://example.com
 מעצבת פנים והנדסאית אדריכלות שיוצרת בתים עם נשמה. עיצוב פנים אישי ומשפחתי ברוח אלגנטית-על-זמנית. צרו את חוויית המגורים שחלמתם עליה.
 
 ### אודות
-https://i-8ca050e7.zappy5.app/about
+https://example.com/about
 הסיפור של ירין מור – מעצבת שמקשיבה לקירות ולדיירים. גלו איך הפילוסופיה של &#39;בית שמשקף את האנשים&#39; הופכת כל פרויקט לחוויית עיצוב נדירה.
 
 ### שירותים
-https://i-8ca050e7.zappy5.app/services
+https://example.com/services
 מתכנון אדריכלי ועד הלבשת הבית – שירותי עיצוב פנים והנדסאות אדריכלות בהתאמה מושלמת לצרכים שלכם. בואו לעצב חלל שמספר את הסיפור המשפחתי.
 
 ### תיק עבודות
-https://i-8ca050e7.zappy5.app/portfolio
+https://example.com/portfolio
 תיק עבודות עשיר בפרויקטים של עיצוב פנים והנדסת אדריכלות. היכנסו לראות bathroom makeover before and after, סלונים מפנקים וחדרי ילדים קסומים.
 
 ### צור קשר
-https://i-8ca050e7.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את הבית שלכם למקום הכי אישי בעולם? השאירו פרטים ונצא לדרך עם ליווי צמוד, מקצועי ומלא חמימות. צרו קשר עוד היום.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://i-8ca050e7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://i-8ca050e7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://i-8ca050e7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://i-8ca050e7.zappy5.app/contact
-- Endpoint: https://i-8ca050e7.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Interior Design & Architectural Engineering
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://i-8ca050e7.zappy5.app/sitemap.xml
-- Robots: https://i-8ca050e7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://i-8ca050e7.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

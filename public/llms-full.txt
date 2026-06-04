@@ -2,13 +2,13 @@
 
 Yarin Mor is an Israeli Interior Designer and Architectural Engineering Practical Engineer who creates deeply personal, family-centered home experiences. Her brand identity is built around the philosophy that a home should reflect the people living in it — not the other way around. The studio evokes the warmth of an elegant English boutique design house, blending vintage luxury, timeless femininity, and emotional storytelling. Think Soho House meets Ralph Lauren Home in an Israeli family context — refined yet approachable, sophisticated yet deeply human. The website is designed to feel like entering a beautiful home, not a business.
 
-Source: https://i-8ca050e7.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפכו את הבית לסיפור שלכם — הנדסאית אדריכלות ומעצבת פנים I ירין מור
 
-URL: https://i-8ca050e7.zappy5.app
+URL: https://example.com
 Description: מעצבת פנים והנדסאית אדריכלות שיוצרת בתים עם נשמה. עיצוב פנים אישי ומשפחתי ברוח אלגנטית-על-זמנית. צרו את חוויית המגורים שחלמתם עליה.
 
 הפכו את הבית לסיפור שלכם — הנדסאית אדריכלות ומעצבת פנים I ירין מור
@@ -486,7 +486,7 @@ Description: מעצבת פנים והנדסאית אדריכלות שיוצרת 
 
 ## הכירו את היוצרת מאחורי הקווים הרכים — הנדסאית אדריכלות ומעצבת פנים I ירין מור
 
-URL: https://i-8ca050e7.zappy5.app/about
+URL: https://example.com/about
 Description: הסיפור של ירין מור – מעצבת שמקשיבה לקירות ולדיירים. גלו איך הפילוסופיה של &#39;בית שמשקף את האנשים&#39; הופכת כל פרויקט לחוויית עיצוב נדירה.
 
 הכירו את היוצרת מאחורי הקווים הרכים — הנדסאית אדריכלות ומעצבת פנים I ירין מור
@@ -875,7 +875,7 @@ Description: הסיפור של ירין מור – מעצבת שמקשיבה ל�
 
 ## חבילות עיצוב שעוטפות את כל המשפחה — הנדסאית אדריכלות ומעצבת פנים I ירין מור
 
-URL: https://i-8ca050e7.zappy5.app/services
+URL: https://example.com/services
 Description: מתכנון אדריכלי ועד הלבשת הבית – שירותי עיצוב פנים והנדסאות אדריכלות בהתאמה מושלמת לצרכים שלכם. בואו לעצב חלל שמספר את הסיפור המשפחתי.
 
 חבילות עיצוב שעוטפות את כל המשפחה — הנדסאית אדריכלות ומעצבת פנים I ירין מור
@@ -1384,7 +1384,7 @@ Description: מתכנון אדריכלי ועד הלבשת הבית – שירו
 
 ## הצצה לבתים שהתעוררו לחיים — הנדסאית אדריכלות ומעצבת פנים I ירין מור
 
-URL: https://i-8ca050e7.zappy5.app/portfolio
+URL: https://example.com/portfolio
 Description: תיק עבודות עשיר בפרויקטים של עיצוב פנים והנדסת אדריכלות. היכנסו לראות bathroom makeover before and after, סלונים מפנקים וחדרי ילדים קסומים.
 
 הצצה לבתים שהתעוררו לחיים — הנדסאית אדריכלות ומעצבת פנים I ירין מור
@@ -1875,7 +1875,7 @@ Description: תיק עבודות עשיר בפרויקטים של עיצוב פ�
 
 ## בואו נתחיל לעצב את החלום המשותף — הנדסאית אדריכלות ומעצבת פנים I ירין מור
 
-URL: https://i-8ca050e7.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להפוך את הבית שלכם למקום הכי אישי בעולם? השאירו פרטים ונצא לדרך עם ליווי צמוד, מקצועי ומלא חמימות. צרו קשר עוד היום.
 
 בואו נתחיל לעצב את החלום המשותף — הנדסאית אדריכלות ומעצבת פנים I ירין מור
@@ -2193,7 +2193,7 @@ Description: מוכנים להפוך את הבית שלכם למקום הכי א
 
 ## מדיניות פרטיות
 
-URL: https://i-8ca050e7.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2455,7 +2455,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://i-8ca050e7.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2726,7 +2726,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://i-8ca050e7.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
